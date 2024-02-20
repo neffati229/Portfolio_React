@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_React/static/css/main.d4660b0f.css",
-    "main.js": "/Portfolio_React/static/js/main.4e5e89d5.js",
+    "main.js": "/Portfolio_React/static/js/main.58a65556.js",
     "static/js/453.64be9eb2.chunk.js": "/Portfolio_React/static/js/453.64be9eb2.chunk.js",
     "static/media/hajer.png": "/Portfolio_React/static/media/hajer.ba206b214353c2d191da.png",
     "static/media/color-sharp.png": "/Portfolio_React/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -32,11 +32,11 @@
     "static/media/arrow1.svg": "/Portfolio_React/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Portfolio_React/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.d4660b0f.css.map": "/Portfolio_React/static/css/main.d4660b0f.css.map",
-    "main.4e5e89d5.js.map": "/Portfolio_React/static/js/main.4e5e89d5.js.map",
+    "main.58a65556.js.map": "/Portfolio_React/static/js/main.58a65556.js.map",
     "453.64be9eb2.chunk.js.map": "/Portfolio_React/static/js/453.64be9eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4660b0f.css",
-    "static/js/main.4e5e89d5.js"
+    "static/js/main.58a65556.js"
   ]
 }
